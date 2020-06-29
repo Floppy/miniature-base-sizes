@@ -1,0 +1,3 @@
+[submodule "source_data/wh40k"]
+	path = source_data/wh40k
+	url = git@github.com:BSData/wh40k.git
