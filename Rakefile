@@ -20,5 +20,3 @@ namespace :regenerate do
     end
   end
 end
-
-task :default => "regenerate:all"
