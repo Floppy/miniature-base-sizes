@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "name": "model",
+      "type": "string",
+      "description": "The official name of the model (or variant).",
+      "constraints": {
+        "unique": "true"
+      }
+    },
+    {
+      "name": "base_size",
+      "type": "integer",
+      "description": "The size of the base in mm. For oval bases, this is the long axis, use base_short_axis for the secondary size."
+    },
+    {
+      "name": "base_short_axis",
+      "type": "integer",
+      "description": "The secondary axis size of the base in mm for oval bases."
+    },
+    {
+      "name": "base_shape",
+      "type": "string",
+      "description": "The shape of the base.",
+      "constraints": {
+        "oneOf": ["round", "oval", "stadium", "square", "hex", "irregular", "none"]
+      }
+    },
+    {
+      "name": "notes",
+      "type": "string",
+      "description": "Extra information."
+    }
+  ]
+}
