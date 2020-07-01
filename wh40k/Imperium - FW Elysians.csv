@@ -1,8 +1,8 @@
-model,base_size,notes
-Elysian Company Commander,unknown,""
-Elysian Lord Commissar,unknown,""
-Sergeant,unknown,""
-Guardsmen,unknown,""
-Guardsmen w/ Special Weapon,unknown,""
-Elysian Platoon Commander,unknown,""
-Valkyrie Sky Talon,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Elysian Company Commander,,,unknown,
+Elysian Lord Commissar,,,unknown,
+Sergeant,,,unknown,
+Guardsmen,,,unknown,
+Guardsmen w/ Special Weapon,,,unknown,
+Elysian Platoon Commander,,,unknown,
+Valkyrie Sky Talon,,,unknown,

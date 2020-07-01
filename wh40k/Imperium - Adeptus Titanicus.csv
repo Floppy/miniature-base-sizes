@@ -1,5 +1,5 @@
-model,base_size,notes
-Warhound Scout Titan,unknown,""
-Reaver Battle Titan,unknown,""
-Warlord Battle Titan,unknown,""
-Warbringer Nemesis Titan,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Warhound Scout Titan,,,unknown,
+Reaver Battle Titan,,,unknown,
+Warlord Battle Titan,,,unknown,
+Warbringer Nemesis Titan,,,unknown,

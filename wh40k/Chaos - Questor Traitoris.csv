@@ -1,14 +1,14 @@
-model,base_size,notes
-Cerastus Knight-Acheron,unknown,""
-Cerastus Knight-Atrapos,unknown,""
-Cerastus Knight-Castigator,unknown,""
-Cerastus Knight-Lancer,unknown,""
-Questoris Knight Magaera,unknown,""
-Questoris Knight Styrix,unknown,""
-Acastus Knight Porphyrion,unknown,""
-War Dog,unknown,""
-Knight Despoiler,unknown,""
-Knight Tyrant,unknown,""
-Knight Desecrator,unknown,""
-Knight Rampager,unknown,""
-Acastus Knight Asterius,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Cerastus Knight-Acheron,,,unknown,
+Cerastus Knight-Atrapos,,,unknown,
+Cerastus Knight-Castigator,,,unknown,
+Cerastus Knight-Lancer,,,unknown,
+Questoris Knight Magaera,,,unknown,
+Questoris Knight Styrix,,,unknown,
+Acastus Knight Porphyrion,,,unknown,
+War Dog,,,unknown,
+Knight Despoiler,,,unknown,
+Knight Tyrant,,,unknown,
+Knight Desecrator,,,unknown,
+Knight Rampager,,,unknown,
+Acastus Knight Asterius,,,unknown,

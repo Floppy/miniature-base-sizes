@@ -1,79 +1,79 @@
-model,base_size,notes
-Eldrad Ulthran,unknown,""
-Prince Yriel,unknown,""
-Jain Zar,unknown,""
-Karandras,unknown,""
-Fuegan,unknown,""
-Baharroth,unknown,""
-Maugan Ra,unknown,""
-Autarch (Legends),unknown,""
-Autarch with Swooping Hawk Wings (Legends),unknown,""
-Autarch with Warp Jump Generator,unknown,""
-Autarch Skyrunner (Legends),unknown,""
-Avatar of Khaine,unknown,""
-Farseer,unknown,""
-Farseer Skyrunner,unknown,""
-Warlock,unknown,""
-Warlock,unknown,""
-Warlock Skyrunner,unknown,""
-Warlock Skyrunner,unknown,""
-Spiritseer,unknown,""
-Guardian Defender,unknown,""
-Storm Guardian - Aeldari Blade,unknown,""
-Storm Guardian - Chainsword,unknown,""
-Storm Guardian - Power Sword (INDEX),unknown,""
-Storm Guardian - Special Weapon,unknown,""
-Windrider - Twin Shuriken Catapults,unknown,""
-Windrider - Shuriken Cannon,unknown,""
-Windrider - Scatter Laser,unknown,""
-Ranger,unknown,""
-Dire Avenger,unknown,""
-Dire Avenger Exarch,unknown,""
-Howling Banshee,unknown,""
-Howling Banshee Exarch,unknown,""
-Striking Scorpion,unknown,""
-Striking Scorpion Exarch,unknown,""
-Fire Dragon,unknown,""
-Wraithguard,unknown,""
-Wraithblade,unknown,""
-Wave Serpent,unknown,""
-Swooping Hawk,unknown,""
-Swooping Hawk Exarch,unknown,""
-Warp Spider,unknown,""
-Warp Spider Exarch,unknown,""
-Shining Spear,unknown,""
-Shining Spear Exarch,unknown,""
-Crimson Hunter,unknown,""
-Crimson Hunter Exarch,unknown,""
-Vyper,unknown,""
-Hemlock Wraithfighter,unknown,""
-Dark Reaper,unknown,""
-Support Weapon,unknown,""
-Falcon,unknown,""
-Fire Prism,unknown,""
-Night Spinner,unknown,""
-War Walker,unknown,""
-Wraithlord,unknown,""
-Wraithknight,unknown,""
-Phantom Titan,unknown,""
-Irillyth,unknown,""
-Revenant Titan,unknown,""
-Skathach Wraithknight,unknown,""
-Vampire Hunter,unknown,""
-Vampire Raider,unknown,""
-Phoenix,unknown,""
-Nightwing,unknown,""
-Cobra,unknown,""
-Scorpion,unknown,""
-Lynx,unknown,""
-Hornet,unknown,""
-Wraithseer,unknown,""
-Wasp Assault Walker,unknown,""
-Shadow Spectre,unknown,""
-Shadow Spectre Exarch,unknown,""
-Bonesinger,unknown,""
-Amallyn Shadowguide,unknown,""
-Autarch,unknown,""
-Autarch with Swooping Hawk Wings,unknown,""
-Autarch Skyrunner,unknown,""
-Bonesinger (Legends),unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Eldrad Ulthran,,,unknown,
+Prince Yriel,,,unknown,
+Jain Zar,,,unknown,
+Karandras,,,unknown,
+Fuegan,,,unknown,
+Baharroth,,,unknown,
+Maugan Ra,,,unknown,
+Autarch (Legends),,,unknown,
+Autarch with Swooping Hawk Wings (Legends),,,unknown,
+Autarch with Warp Jump Generator,,,unknown,
+Autarch Skyrunner (Legends),,,unknown,
+Avatar of Khaine,,,unknown,
+Farseer,,,unknown,
+Farseer Skyrunner,,,unknown,
+Warlock,,,unknown,
+Warlock,,,unknown,
+Warlock Skyrunner,,,unknown,
+Warlock Skyrunner,,,unknown,
+Spiritseer,,,unknown,
+Guardian Defender,,,unknown,
+Storm Guardian - Aeldari Blade,,,unknown,
+Storm Guardian - Chainsword,,,unknown,
+Storm Guardian - Power Sword (INDEX),,,unknown,
+Storm Guardian - Special Weapon,,,unknown,
+Windrider - Twin Shuriken Catapults,,,unknown,
+Windrider - Shuriken Cannon,,,unknown,
+Windrider - Scatter Laser,,,unknown,
+Ranger,,,unknown,
+Dire Avenger,,,unknown,
+Dire Avenger Exarch,,,unknown,
+Howling Banshee,,,unknown,
+Howling Banshee Exarch,,,unknown,
+Striking Scorpion,,,unknown,
+Striking Scorpion Exarch,,,unknown,
+Fire Dragon,,,unknown,
+Wraithguard,,,unknown,
+Wraithblade,,,unknown,
+Wave Serpent,,,unknown,
+Swooping Hawk,,,unknown,
+Swooping Hawk Exarch,,,unknown,
+Warp Spider,,,unknown,
+Warp Spider Exarch,,,unknown,
+Shining Spear,,,unknown,
+Shining Spear Exarch,,,unknown,
+Crimson Hunter,,,unknown,
+Crimson Hunter Exarch,,,unknown,
+Vyper,,,unknown,
+Hemlock Wraithfighter,,,unknown,
+Dark Reaper,,,unknown,
+Support Weapon,,,unknown,
+Falcon,,,unknown,
+Fire Prism,,,unknown,
+Night Spinner,,,unknown,
+War Walker,,,unknown,
+Wraithlord,,,unknown,
+Wraithknight,,,unknown,
+Phantom Titan,,,unknown,
+Irillyth,,,unknown,
+Revenant Titan,,,unknown,
+Skathach Wraithknight,,,unknown,
+Vampire Hunter,,,unknown,
+Vampire Raider,,,unknown,
+Phoenix,,,unknown,
+Nightwing,,,unknown,
+Cobra,,,unknown,
+Scorpion,,,unknown,
+Lynx,,,unknown,
+Hornet,,,unknown,
+Wraithseer,,,unknown,
+Wasp Assault Walker,,,unknown,
+Shadow Spectre,,,unknown,
+Shadow Spectre Exarch,,,unknown,
+Bonesinger,,,unknown,
+Amallyn Shadowguide,,,unknown,
+Autarch,,,unknown,
+Autarch with Swooping Hawk Wings,,,unknown,
+Autarch Skyrunner,,,unknown,
+Bonesinger (Legends),,,unknown,

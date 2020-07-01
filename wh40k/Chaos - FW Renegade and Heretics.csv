@@ -1,77 +1,77 @@
-model,base_size,notes
-Chimera,unknown,""
-Hellhound,unknown,""
-Bane Wolf,unknown,""
-Devil Dog,unknown,""
-Scout Sentinel,unknown,""
-Armoured Sentinel,unknown,""
-Valkyrie,unknown,""
-Leman Russ Battle Tank,unknown,""
-Wyvern,unknown,""
-Hydra,unknown,""
-Baneblade,unknown,""
-Salamander Scout Tank,unknown,""
-Griffon Mortar Carrier,unknown,""
-Rapier Laser Destroyer,unknown,""
-Arvus Lighter,unknown,""
-Basilisk,unknown,""
-Colossus Bombard,unknown,""
-Earthshaker Battery,unknown,""
-Earthshaker Platform,unknown,""
-Rogue Psyker,unknown,""
-Renegade Cultist Champion,unknown,""
-Renegade Cultist w/ Autogun,unknown,""
-Renegade Cultist w/ special weapon,unknown,""
-Renegade Cultist w/ autopistol and brutal assault weapon,unknown,""
-Renegade Militia Champion,unknown,""
-Renegade Militia,unknown,""
-Renegade Militia w/ special weapon,unknown,""
-Renegade Militia w/ Chaos Sigil,unknown,""
-Renegade Militia w/ Vox-caster,unknown,""
-Renegade Militia with Autogun,unknown,""
-Renegade Militia with Autopistol &amp; Brutal assault weapon,unknown,""
-Renegade Militia with Lasgun,unknown,""
-Renegade Militia with Laspistol &amp; Brutal Assault Weapon,unknown,""
-Mutant Champion,unknown,""
-Mutant with Autogun,unknown,""
-Mutant with Autopistol,unknown,""
-Mutant with Laspistol,unknown,""
-Mutant with Lasgun,unknown,""
-Mutant with Shotgun,unknown,""
-Mutant with Stubgun,unknown,""
-Chaos Spawn,unknown,""
-Disciple Weapon Team,unknown,""
-Disciple with special weapon,unknown,""
-Disciple with autogun,unknown,""
-Disciple with lasgun,unknown,""
-Disciple w/ Command Vox Net,unknown,""
-Disciple w/ Banner,unknown,""
-Disciple Champion,unknown,""
-Disciple Heavy Weapon Team,unknown,""
-Disciple with special weapon,unknown,""
-Disciple with Chaos Sigil,unknown,""
-Disciple with Voxcaster,unknown,""
-Disciple with autogun,unknown,""
-Disciple with Lasgun,unknown,""
-Marauder Chief,unknown,""
-Marauder With Autogun,unknown,""
-Marauder With Lasgun,unknown,""
-Marauder With Shotgun,unknown,""
-Marauder With Brutal assault weapon/Laspistol,unknown,""
-Marauder With Brutal assault weapon/Autopistol,unknown,""
-Marauder With Special Weapon,unknown,""
-Ogryn Pack Master,unknown,""
-Chaos Mauler Hounds,unknown,""
-Brutes,unknown,""
-Plague Ogryn,unknown,""
-Renegade Gunner,unknown,""
-Malcador Heavy Tank,unknown,""
-Malcador Defender,unknown,""
-Armageddon Pattern Medusa,unknown,""
-4 Renegade guardsmen,unknown,""
-4 Renegade guardsmen,unknown,""
-Macharius Heavy Tank,unknown,""
-Macharius Omega,unknown,""
-Macharius Vanquisher,unknown,""
-Macharius Vulcan,unknown,""
-Renegade Enforcer,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Chimera,,,unknown,
+Hellhound,,,unknown,
+Bane Wolf,,,unknown,
+Devil Dog,,,unknown,
+Scout Sentinel,,,unknown,
+Armoured Sentinel,,,unknown,
+Valkyrie,,,unknown,
+Leman Russ Battle Tank,,,unknown,
+Wyvern,,,unknown,
+Hydra,,,unknown,
+Baneblade,,,unknown,
+Salamander Scout Tank,,,unknown,
+Griffon Mortar Carrier,,,unknown,
+Rapier Laser Destroyer,,,unknown,
+Arvus Lighter,,,unknown,
+Basilisk,,,unknown,
+Colossus Bombard,,,unknown,
+Earthshaker Battery,,,unknown,
+Earthshaker Platform,,,unknown,
+Rogue Psyker,,,unknown,
+Renegade Cultist Champion,,,unknown,
+Renegade Cultist w/ Autogun,,,unknown,
+Renegade Cultist w/ special weapon,,,unknown,
+Renegade Cultist w/ autopistol and brutal assault weapon,,,unknown,
+Renegade Militia Champion,,,unknown,
+Renegade Militia,,,unknown,
+Renegade Militia w/ special weapon,,,unknown,
+Renegade Militia w/ Chaos Sigil,,,unknown,
+Renegade Militia w/ Vox-caster,,,unknown,
+Renegade Militia with Autogun,,,unknown,
+Renegade Militia with Autopistol &amp; Brutal assault weapon,,,unknown,
+Renegade Militia with Lasgun,,,unknown,
+Renegade Militia with Laspistol &amp; Brutal Assault Weapon,,,unknown,
+Mutant Champion,,,unknown,
+Mutant with Autogun,,,unknown,
+Mutant with Autopistol,,,unknown,
+Mutant with Laspistol,,,unknown,
+Mutant with Lasgun,,,unknown,
+Mutant with Shotgun,,,unknown,
+Mutant with Stubgun,,,unknown,
+Chaos Spawn,,,unknown,
+Disciple Weapon Team,,,unknown,
+Disciple with special weapon,,,unknown,
+Disciple with autogun,,,unknown,
+Disciple with lasgun,,,unknown,
+Disciple w/ Command Vox Net,,,unknown,
+Disciple w/ Banner,,,unknown,
+Disciple Champion,,,unknown,
+Disciple Heavy Weapon Team,,,unknown,
+Disciple with special weapon,,,unknown,
+Disciple with Chaos Sigil,,,unknown,
+Disciple with Voxcaster,,,unknown,
+Disciple with autogun,,,unknown,
+Disciple with Lasgun,,,unknown,
+Marauder Chief,,,unknown,
+Marauder With Autogun,,,unknown,
+Marauder With Lasgun,,,unknown,
+Marauder With Shotgun,,,unknown,
+Marauder With Brutal assault weapon/Laspistol,,,unknown,
+Marauder With Brutal assault weapon/Autopistol,,,unknown,
+Marauder With Special Weapon,,,unknown,
+Ogryn Pack Master,,,unknown,
+Chaos Mauler Hounds,,,unknown,
+Brutes,,,unknown,
+Plague Ogryn,,,unknown,
+Renegade Gunner,,,unknown,
+Malcador Heavy Tank,,,unknown,
+Malcador Defender,,,unknown,
+Armageddon Pattern Medusa,,,unknown,
+4 Renegade guardsmen,,,unknown,
+4 Renegade guardsmen,,,unknown,
+Macharius Heavy Tank,,,unknown,
+Macharius Omega,,,unknown,
+Macharius Vanquisher,,,unknown,
+Macharius Vulcan,,,unknown,
+Renegade Enforcer,,,unknown,

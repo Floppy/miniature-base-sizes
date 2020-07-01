@@ -1,40 +1,40 @@
-model,base_size,notes
-Chaos Predator,unknown,""
-Chaos Vindicator,unknown,""
-Defiler,unknown,""
-Heldrake,unknown,""
-Maulerfiend,unknown,""
-Sorcerer [LEGENDS],unknown,""
-Aspiring Sorcerer,unknown,""
-Rubric Marine w/ Inferno Boltgun,unknown,""
-Rubric Marine w/ Warpflamer,unknown,""
-Rubric Marine w/ Soulreaper cannon,unknown,""
-Scarab Occult Sorcerer,unknown,""
-Terminator,unknown,""
-Terminator w/ Heavy Weapon,unknown,""
-Exalted Sorcerer,unknown,""
-Sorcerer in Terminator Armour [LEGENDS],unknown,""
-Sorcerer on Disc of Tzeentch [LEGENDS],unknown,""
-Helbrute,unknown,""
-Chaos Rhino,unknown,""
-Magnus the Red,unknown,""
-Cultist Champion,unknown,""
-Chaos Cultist w/ Autogun,unknown,""
-Chaos Cultist w/ autopistol and brutal assault weapon,unknown,""
-Chaos Cultist w/ special weapon,unknown,""
-Chaos Spawn,unknown,""
-Exalted Sorcerer on Disc of Tzeentch,unknown,""
-Twistbray,unknown,""
-Tzaangor w/ Tzaangor Blades,unknown,""
-Tzaangor w/ autopistol and chainsword,unknown,""
-Ahriman,unknown,""
-Ahriman on Disc of Tzeentch,unknown,""
-Chaos Land Raider,unknown,""
-Forgefiend,unknown,""
-Tzaangor Shaman,unknown,""
-Aviarch,unknown,""
-Enlightened,unknown,""
-Mutalith Vortex Beast,unknown,""
-Daemon Prince [INDEX],unknown,""
-Sorcerer in Terminator Armour,unknown,""
-Sorcerer,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Chaos Predator,,,unknown,
+Chaos Vindicator,,,unknown,
+Defiler,,,unknown,
+Heldrake,,,unknown,
+Maulerfiend,,,unknown,
+Sorcerer [LEGENDS],,,unknown,
+Aspiring Sorcerer,,,unknown,
+Rubric Marine w/ Inferno Boltgun,,,unknown,
+Rubric Marine w/ Warpflamer,,,unknown,
+Rubric Marine w/ Soulreaper cannon,,,unknown,
+Scarab Occult Sorcerer,,,unknown,
+Terminator,,,unknown,
+Terminator w/ Heavy Weapon,,,unknown,
+Exalted Sorcerer,,,unknown,
+Sorcerer in Terminator Armour [LEGENDS],,,unknown,
+Sorcerer on Disc of Tzeentch [LEGENDS],,,unknown,
+Helbrute,,,unknown,
+Chaos Rhino,,,unknown,
+Magnus the Red,,,unknown,
+Cultist Champion,,,unknown,
+Chaos Cultist w/ Autogun,,,unknown,
+Chaos Cultist w/ autopistol and brutal assault weapon,,,unknown,
+Chaos Cultist w/ special weapon,,,unknown,
+Chaos Spawn,,,unknown,
+Exalted Sorcerer on Disc of Tzeentch,,,unknown,
+Twistbray,,,unknown,
+Tzaangor w/ Tzaangor Blades,,,unknown,
+Tzaangor w/ autopistol and chainsword,,,unknown,
+Ahriman,,,unknown,
+Ahriman on Disc of Tzeentch,,,unknown,
+Chaos Land Raider,,,unknown,
+Forgefiend,,,unknown,
+Tzaangor Shaman,,,unknown,
+Aviarch,,,unknown,
+Enlightened,,,unknown,
+Mutalith Vortex Beast,,,unknown,
+Daemon Prince [INDEX],,,unknown,
+Sorcerer in Terminator Armour,,,unknown,
+Sorcerer,,,unknown,

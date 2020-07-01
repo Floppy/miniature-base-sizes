@@ -1,9 +1,9 @@
-model,base_size,notes
-Initiate,unknown,""
-Sword Brother,unknown,""
-Initiate w/Special Weapon,unknown,""
-Initiate w/Heavy or Melee Weapon,unknown,""
-Initiate w/Chainsword,unknown,""
-Neophyte w/Shotgun,unknown,""
-Neophyte w/Boltgun,unknown,""
-Neophyte w/Combat Knife,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Initiate,,,unknown,
+Sword Brother,,,unknown,
+Initiate w/Special Weapon,,,unknown,
+Initiate w/Heavy or Melee Weapon,,,unknown,
+Initiate w/Chainsword,,,unknown,
+Neophyte w/Shotgun,,,unknown,
+Neophyte w/Boltgun,,,unknown,
+Neophyte w/Combat Knife,,,unknown,

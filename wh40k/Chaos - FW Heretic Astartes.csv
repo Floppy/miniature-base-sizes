@@ -1,36 +1,36 @@
-model,base_size,notes
-Greater Brass Scorpion of Khorne,unknown,""
-Greater Blight Drone,unknown,""
-Blood Slaughterer of Khorne,unknown,""
-Chaos Decimator,unknown,""
-Kytan Ravager,unknown,""
-Hellforged Contemptor Dreadnought,unknown,""
-Hellforged Land Raider Proteus,unknown,""
-Hellforged Land Raider Achilles,unknown,""
-Hellforged Predator,unknown,""
-Hellforged Scorpius,unknown,""
-Hellforged Sicaran,unknown,""
-Hellforged Sicaran Venator,unknown,""
-Hellforged Spartan Assault Tank,unknown,""
-Hellforged Deredeo Dreadnought,unknown,""
-Hellforged Rapier and crew,unknown,""
-Hellforged Leviathan Dreadnought,unknown,""
-Hellforged Dreadclaw Drop Pod,unknown,""
-Hellforged Kharybdis Assault Claw,unknown,""
-Hellforged Cerberus Heavy Destroyer,unknown,""
-Hellforged Typhon Heavy Siege Tank,unknown,""
-Hellforged Fellblade,unknown,""
-Hellforged Falchion,unknown,""
-Hellforged Mastodon,unknown,""
-Chaos Hell Blade,unknown,""
-Chaos Hell Talon,unknown,""
-Chaos Storm Eagle Assault Gunship,unknown,""
-Chaos Fire Raptor Assault Gunship,unknown,""
-Chaos Thunderhawk Assault Gunship,unknown,""
-Chaos Sokar Pattern Stormbird Gunship,unknown,""
-Chaos Xiphon Interceptor,unknown,""
-Plague Hulk of Nurgle,unknown,""
-Ferrum Infernus Dreadnought,unknown,""
-Sonic Dreadnought,unknown,""
-Chaos Vindicator Laser Destroyer,unknown,""
-Hellforged Termite,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Greater Brass Scorpion of Khorne,,,unknown,
+Greater Blight Drone,,,unknown,
+Blood Slaughterer of Khorne,,,unknown,
+Chaos Decimator,,,unknown,
+Kytan Ravager,,,unknown,
+Hellforged Contemptor Dreadnought,,,unknown,
+Hellforged Land Raider Proteus,,,unknown,
+Hellforged Land Raider Achilles,,,unknown,
+Hellforged Predator,,,unknown,
+Hellforged Scorpius,,,unknown,
+Hellforged Sicaran,,,unknown,
+Hellforged Sicaran Venator,,,unknown,
+Hellforged Spartan Assault Tank,,,unknown,
+Hellforged Deredeo Dreadnought,,,unknown,
+Hellforged Rapier and crew,,,unknown,
+Hellforged Leviathan Dreadnought,,,unknown,
+Hellforged Dreadclaw Drop Pod,,,unknown,
+Hellforged Kharybdis Assault Claw,,,unknown,
+Hellforged Cerberus Heavy Destroyer,,,unknown,
+Hellforged Typhon Heavy Siege Tank,,,unknown,
+Hellforged Fellblade,,,unknown,
+Hellforged Falchion,,,unknown,
+Hellforged Mastodon,,,unknown,
+Chaos Hell Blade,,,unknown,
+Chaos Hell Talon,,,unknown,
+Chaos Storm Eagle Assault Gunship,,,unknown,
+Chaos Fire Raptor Assault Gunship,,,unknown,
+Chaos Thunderhawk Assault Gunship,,,unknown,
+Chaos Sokar Pattern Stormbird Gunship,,,unknown,
+Chaos Xiphon Interceptor,,,unknown,
+Plague Hulk of Nurgle,,,unknown,
+Ferrum Infernus Dreadnought,,,unknown,
+Sonic Dreadnought,,,unknown,
+Chaos Vindicator Laser Destroyer,,,unknown,
+Hellforged Termite,,,unknown,
