@@ -1,0 +1,17 @@
+name: CI
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: eregon/use-ruby-action@master
+        with:
+          ruby-version: "2.7"
+      - uses: actions/checkout@v1
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+      - name: Run the tests
+        run: |
+          bundle exec cid validate
