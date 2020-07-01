@@ -1,82 +1,82 @@
-model,base_size,notes
-Be&apos;lakor,unknown,""
-Blood Throne,unknown,""
-Bloodcrusher,unknown,""
-Bloodhunter,unknown,""
-Bloodletter,unknown,""
-Bloodreaper,unknown,""
-Bloodthirster of Unfettered Fury,unknown,""
-Blue Horror,unknown,""
-Pair of Brimstone Horrors,unknown,""
-Pyrocaster,unknown,""
-Flamer,unknown,""
-Flesh Hound,unknown,""
-Gore Hound,unknown,""
-Bloodmaster,unknown,""
-Lord of Change,unknown,""
-Nurgling Swarms,unknown,""
-Pink Horror,unknown,""
-Screamer,unknown,""
-Skarbrand,unknown,""
-Skull Cannon,unknown,""
-Skulltaker,unknown,""
-Bloodthirster of Insensate Rage,unknown,""
-Wrath of Khorne Bloodthirster,unknown,""
-Skullmaster,unknown,""
-Kairos Fateweaver,unknown,""
-The Changeling,unknown,""
-The Blue Scribes,unknown,""
-Changecaster,unknown,""
-Fluxmaster,unknown,""
-Fateskimmer,unknown,""
-Iridescent Horror,unknown,""
-Exalted Flamer,unknown,""
-Burning Chariot,unknown,""
-Epidemius,unknown,""
-Poxbringer,unknown,""
-Great Unclean One,unknown,""
-Plaguebearer,unknown,""
-Plagueridden,unknown,""
-Beast of Nurgle,unknown,""
-Plague Drone,unknown,""
-Plaguebringer,unknown,""
-The Masque of Slaanesh,unknown,""
-Keeper of Secrets,unknown,""
-Herald of Slaanesh,unknown,""
-Herald of Slaanesh on Steed [Legends],unknown,""
-Herald of Slaanesh on Seeker Chariot,unknown,""
-Herald of Slaanesh on Exalted Seeker Chariot,unknown,""
-Daemonette,unknown,""
-Alluress,unknown,""
-Fiend,unknown,""
-Blissbringer,unknown,""
-Hellflayer,unknown,""
-Seeker Chariot,unknown,""
-Heartseeker,unknown,""
-Exalted Seeker Chariot,unknown,""
-Daemon Prince of Chaos,unknown,""
-Fury,unknown,""
-Soul Grinder,unknown,""
-An&apos;ggrath the Unbound,unknown,""
-Uraka the Warfiend,unknown,""
-Samus,unknown,""
-Aetaos&apos;rau&apos;keres,unknown,""
-Zarakynel,unknown,""
-Mamon Transfigured,unknown,""
-Cor&apos;bax Utterblight,unknown,""
-Plague Toad,unknown,""
-Pox Rider,unknown,""
-Spined Chaos Beast,unknown,""
-Giant Chaos Spawn,unknown,""
-Scabeiathrax the Bloated,unknown,""
-Seeker,unknown,""
-Horticulus Slimux,unknown,""
-Sloppity Bilepiper,unknown,""
-Spoilpox Scrivener,unknown,""
-Feculent Gnarlmaw,unknown,""
-Plague Hulk of Nurgle,unknown,""
-Infernal Enrapturess,unknown,""
-Syll&apos;Esske,unknown,""
-Shalaxi Helbane,unknown,""
-Contorted Epitome,unknown,""
-Herald of Slaanesh on Hellflayer,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Be&apos;lakor,,,unknown,
+Blood Throne,,,unknown,
+Bloodcrusher,,,unknown,
+Bloodhunter,,,unknown,
+Bloodletter,,,unknown,
+Bloodreaper,,,unknown,
+Bloodthirster of Unfettered Fury,,,unknown,
+Blue Horror,,,unknown,
+Pair of Brimstone Horrors,,,unknown,
+Pyrocaster,,,unknown,
+Flamer,,,unknown,
+Flesh Hound,,,unknown,
+Gore Hound,,,unknown,
+Bloodmaster,,,unknown,
+Lord of Change,,,unknown,
+Nurgling Swarms,,,unknown,
+Pink Horror,,,unknown,
+Screamer,,,unknown,
+Skarbrand,,,unknown,
+Skull Cannon,,,unknown,
+Skulltaker,,,unknown,
+Bloodthirster of Insensate Rage,,,unknown,
+Wrath of Khorne Bloodthirster,,,unknown,
+Skullmaster,,,unknown,
+Kairos Fateweaver,,,unknown,
+The Changeling,,,unknown,
+The Blue Scribes,,,unknown,
+Changecaster,,,unknown,
+Fluxmaster,,,unknown,
+Fateskimmer,,,unknown,
+Iridescent Horror,,,unknown,
+Exalted Flamer,,,unknown,
+Burning Chariot,,,unknown,
+Epidemius,,,unknown,
+Poxbringer,,,unknown,
+Great Unclean One,,,unknown,
+Plaguebearer,,,unknown,
+Plagueridden,,,unknown,
+Beast of Nurgle,,,unknown,
+Plague Drone,,,unknown,
+Plaguebringer,,,unknown,
+The Masque of Slaanesh,,,unknown,
+Keeper of Secrets,,,unknown,
+Herald of Slaanesh,,,unknown,
+Herald of Slaanesh on Steed [Legends],,,unknown,
+Herald of Slaanesh on Seeker Chariot,,,unknown,
+Herald of Slaanesh on Exalted Seeker Chariot,,,unknown,
+Daemonette,,,unknown,
+Alluress,,,unknown,
+Fiend,,,unknown,
+Blissbringer,,,unknown,
+Hellflayer,,,unknown,
+Seeker Chariot,,,unknown,
+Heartseeker,,,unknown,
+Exalted Seeker Chariot,,,unknown,
+Daemon Prince of Chaos,,,unknown,
+Fury,,,unknown,
+Soul Grinder,,,unknown,
+An&apos;ggrath the Unbound,,,unknown,
+Uraka the Warfiend,,,unknown,
+Samus,,,unknown,
+Aetaos&apos;rau&apos;keres,,,unknown,
+Zarakynel,,,unknown,
+Mamon Transfigured,,,unknown,
+Cor&apos;bax Utterblight,,,unknown,
+Plague Toad,,,unknown,
+Pox Rider,,,unknown,
+Spined Chaos Beast,,,unknown,
+Giant Chaos Spawn,,,unknown,
+Scabeiathrax the Bloated,,,unknown,
+Seeker,,,unknown,
+Horticulus Slimux,,,unknown,
+Sloppity Bilepiper,,,unknown,
+Spoilpox Scrivener,,,unknown,
+Feculent Gnarlmaw,,,unknown,
+Plague Hulk of Nurgle,,,unknown,
+Infernal Enrapturess,,,unknown,
+Syll&apos;Esske,,,unknown,
+Shalaxi Helbane,,,unknown,
+Contorted Epitome,,,unknown,
+Herald of Slaanesh on Hellflayer,,,unknown,

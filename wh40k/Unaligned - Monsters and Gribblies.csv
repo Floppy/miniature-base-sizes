@@ -1,4 +1,4 @@
-model,base_size,notes
-Ambull,unknown,""
-Borewyrm Infestation,unknown,""
-Spindle Drone,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Ambull,,,unknown,
+Borewyrm Infestation,,,unknown,
+Spindle Drone,,,unknown,

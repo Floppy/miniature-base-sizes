@@ -1,116 +1,116 @@
-model,base_size,notes
-Ragnar Blackmane,unknown,""
-Svangir,unknown,""
-Ulfgir,unknown,""
-Logan Grimnar,unknown,""
-Logan Grimnar on Stormrider,unknown,""
-Wolf Lord on Thunderwolf,unknown,""
-Krom Dragongaze,unknown,""
-Rune Priest,unknown,""
-Rune Priest in Terminator Armour,unknown,""
-Rune Priest on Bike,unknown,""
-Canis Wolfborn,unknown,""
-Njal Stormcaller,unknown,""
-Njal Stormcaller in Runic Terminator Armour,unknown,""
-Wolf Priest,unknown,""
-Wolf Priest in Terminator Armour,unknown,""
-Wolf Priest on Bike,unknown,""
-Wolf Guard Battle Leader,unknown,""
-Wolf Guard Battle Leader on Bike,unknown,""
-Wolf Guard Battle Leader in Terminator Armour,unknown,""
-Wolf Guard Battle Leader on Thunderwolf,unknown,""
-Ulrik The Slayer,unknown,""
-Bjorn the Fell-handed,unknown,""
-Arjac Rockfist,unknown,""
-Iron Priest,unknown,""
-Iron Priest on Bike,unknown,""
-Iron Priest on Thunderwolf,unknown,""
-Lukas the Trickster,unknown,""
-Blood Claw,unknown,""
-Blood Claw Pack Leader,unknown,""
-Blood Claw with Plasma Pistol,unknown,""
-Blood Claw with Special Weapon,unknown,""
-Wolf Guard Pack Leader,unknown,""
-Wolf Guard Terminator Pack Leader,unknown,""
-Cyberwolf,unknown,""
-Murderfang,unknown,""
-Wolf Guard Pack Leader in Terminator Armour,unknown,""
-Wolf Guard in Terminator Armour,unknown,""
-Wolf Guard in Terminator Armour with Heavy Weapon,unknown,""
-Wolf Guard,unknown,""
-Wolf Guard Pack Leader,unknown,""
-Wolf Guard on Bike,unknown,""
-Wolf Guard on Bike Pack Leader,unknown,""
-Stormfang Gunship,unknown,""
-Rhino,unknown,""
-Rhino Primaris ,unknown,""
-Predator,unknown,""
-Vindicator,unknown,""
-Whirlwind,unknown,""
-Land Raider,unknown,""
-Land Raider Redeemer,unknown,""
-Land Raider Crusader,unknown,""
-Land Raider Excelsior,unknown,""
-Fenrisian Wolf,unknown,""
-Grey Hunter w/Bolt Pistol,unknown,""
-Grey Hunter Pack Leader,unknown,""
-Grey Hunter with Special Weapon,unknown,""
-Grey Hunter w/Plasma Pistol,unknown,""
-Swiftclaw Attack Bike,unknown,""
-Wolf Guard Bike Leader,unknown,""
-Swiftclaw,unknown,""
-Swiftclaw Pack Leader,unknown,""
-Long Fang,unknown,""
-Long Fang Pack Leader,unknown,""
-Thunderwolf Cavalry,unknown,""
-Thunderwolf Cavalry Pack Leader,unknown,""
-Wolf Guard Sky Leader,unknown,""
-Dreadnought,unknown,""
-Drop Pod,unknown,""
-Hellblaster,unknown,""
-Hellblaster Pack Leader,unknown,""
-Inceptor,unknown,""
-Inceptor Sergeant,unknown,""
-Primaris Ancient,unknown,""
-Primaris Battle Leader,unknown,""
-Razorback,unknown,""
-Venerable Dreadnought,unknown,""
-Wolf Lord,unknown,""
-Wolf Lord in Gravis Armor,unknown,""
-Wolf Lord on Bike,unknown,""
-Wolf Lord in Terminator Armor,unknown,""
-Wolf Guard Pack Leader (Scouts),unknown,""
-Primaris Wolf Lord,unknown,""
-Primaris Wolf Priest,unknown,""
-Reiver,unknown,""
-Reiver Pack Leader,unknown,""
-Repulsor,unknown,""
-Primaris Rune Priest,unknown,""
-Wolf Lord in Cataphractii Armor,unknown,""
-Great Company Ancient,unknown,""
-Great Company Champion,unknown,""
-Wolf Guard Tartaros Pack Leader,unknown,""
-Wolf Guard Tartaros Terminator w/Chainfist,unknown,""
-Wolf Guard Tartaros Terminator w/Heavy Weapon,unknown,""
-Wolf Guard Tartaros Terminator w/Lightning Claws,unknown,""
-Wolf Guard Tartaros Terminator w/Power fist,unknown,""
-Lone Wolf [LEGENDS],unknown,""
-Lone Wolf in Terminator Armour [LEGENDS],unknown,""
-Intercessor,unknown,""
-Intercessor Pack Leader,unknown,""
-Wolf Lord in Phobos Armour,unknown,""
-Rune Priest in Phobos Armour,unknown,""
-Wolf Guard Battle Leader in Phobos Armour,unknown,""
-Eliminator Sergeant,unknown,""
-Eliminator w/ Bolt sniper rifle,unknown,""
-Eliminator w/ Las fusil,unknown,""
-Infiltrator Sergeant,unknown,""
-Infiltrator Helix Adept,unknown,""
-Infilltrator,unknown,""
-Suppressor Sergeant,unknown,""
-Suppressor,unknown,""
-Repulsor Executioner,unknown,""
-Incursor,unknown,""
-Incursor Sergeant,unknown,""
-Impulsor,unknown,""
-Primaris Battle Leader in Phobos Armour,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Ragnar Blackmane,,,unknown,
+Svangir,,,unknown,
+Ulfgir,,,unknown,
+Logan Grimnar,,,unknown,
+Logan Grimnar on Stormrider,,,unknown,
+Wolf Lord on Thunderwolf,,,unknown,
+Krom Dragongaze,,,unknown,
+Rune Priest,,,unknown,
+Rune Priest in Terminator Armour,,,unknown,
+Rune Priest on Bike,,,unknown,
+Canis Wolfborn,,,unknown,
+Njal Stormcaller,,,unknown,
+Njal Stormcaller in Runic Terminator Armour,,,unknown,
+Wolf Priest,,,unknown,
+Wolf Priest in Terminator Armour,,,unknown,
+Wolf Priest on Bike,,,unknown,
+Wolf Guard Battle Leader,,,unknown,
+Wolf Guard Battle Leader on Bike,,,unknown,
+Wolf Guard Battle Leader in Terminator Armour,,,unknown,
+Wolf Guard Battle Leader on Thunderwolf,,,unknown,
+Ulrik The Slayer,,,unknown,
+Bjorn the Fell-handed,,,unknown,
+Arjac Rockfist,,,unknown,
+Iron Priest,,,unknown,
+Iron Priest on Bike,,,unknown,
+Iron Priest on Thunderwolf,,,unknown,
+Lukas the Trickster,,,unknown,
+Blood Claw,,,unknown,
+Blood Claw Pack Leader,,,unknown,
+Blood Claw with Plasma Pistol,,,unknown,
+Blood Claw with Special Weapon,,,unknown,
+Wolf Guard Pack Leader,,,unknown,
+Wolf Guard Terminator Pack Leader,,,unknown,
+Cyberwolf,,,unknown,
+Murderfang,,,unknown,
+Wolf Guard Pack Leader in Terminator Armour,,,unknown,
+Wolf Guard in Terminator Armour,,,unknown,
+Wolf Guard in Terminator Armour with Heavy Weapon,,,unknown,
+Wolf Guard,,,unknown,
+Wolf Guard Pack Leader,,,unknown,
+Wolf Guard on Bike,,,unknown,
+Wolf Guard on Bike Pack Leader,,,unknown,
+Stormfang Gunship,,,unknown,
+Rhino,,,unknown,
+Rhino Primaris ,,,unknown,
+Predator,,,unknown,
+Vindicator,,,unknown,
+Whirlwind,,,unknown,
+Land Raider,,,unknown,
+Land Raider Redeemer,,,unknown,
+Land Raider Crusader,,,unknown,
+Land Raider Excelsior,,,unknown,
+Fenrisian Wolf,,,unknown,
+Grey Hunter w/Bolt Pistol,,,unknown,
+Grey Hunter Pack Leader,,,unknown,
+Grey Hunter with Special Weapon,,,unknown,
+Grey Hunter w/Plasma Pistol,,,unknown,
+Swiftclaw Attack Bike,,,unknown,
+Wolf Guard Bike Leader,,,unknown,
+Swiftclaw,,,unknown,
+Swiftclaw Pack Leader,,,unknown,
+Long Fang,,,unknown,
+Long Fang Pack Leader,,,unknown,
+Thunderwolf Cavalry,,,unknown,
+Thunderwolf Cavalry Pack Leader,,,unknown,
+Wolf Guard Sky Leader,,,unknown,
+Dreadnought,,,unknown,
+Drop Pod,,,unknown,
+Hellblaster,,,unknown,
+Hellblaster Pack Leader,,,unknown,
+Inceptor,,,unknown,
+Inceptor Sergeant,,,unknown,
+Primaris Ancient,,,unknown,
+Primaris Battle Leader,,,unknown,
+Razorback,,,unknown,
+Venerable Dreadnought,,,unknown,
+Wolf Lord,,,unknown,
+Wolf Lord in Gravis Armor,,,unknown,
+Wolf Lord on Bike,,,unknown,
+Wolf Lord in Terminator Armor,,,unknown,
+Wolf Guard Pack Leader (Scouts),,,unknown,
+Primaris Wolf Lord,,,unknown,
+Primaris Wolf Priest,,,unknown,
+Reiver,,,unknown,
+Reiver Pack Leader,,,unknown,
+Repulsor,,,unknown,
+Primaris Rune Priest,,,unknown,
+Wolf Lord in Cataphractii Armor,,,unknown,
+Great Company Ancient,,,unknown,
+Great Company Champion,,,unknown,
+Wolf Guard Tartaros Pack Leader,,,unknown,
+Wolf Guard Tartaros Terminator w/Chainfist,,,unknown,
+Wolf Guard Tartaros Terminator w/Heavy Weapon,,,unknown,
+Wolf Guard Tartaros Terminator w/Lightning Claws,,,unknown,
+Wolf Guard Tartaros Terminator w/Power fist,,,unknown,
+Lone Wolf [LEGENDS],,,unknown,
+Lone Wolf in Terminator Armour [LEGENDS],,,unknown,
+Intercessor,,,unknown,
+Intercessor Pack Leader,,,unknown,
+Wolf Lord in Phobos Armour,,,unknown,
+Rune Priest in Phobos Armour,,,unknown,
+Wolf Guard Battle Leader in Phobos Armour,,,unknown,
+Eliminator Sergeant,,,unknown,
+Eliminator w/ Bolt sniper rifle,,,unknown,
+Eliminator w/ Las fusil,,,unknown,
+Infiltrator Sergeant,,,unknown,
+Infiltrator Helix Adept,,,unknown,
+Infilltrator,,,unknown,
+Suppressor Sergeant,,,unknown,
+Suppressor,,,unknown,
+Repulsor Executioner,,,unknown,
+Incursor,,,unknown,
+Incursor Sergeant,,,unknown,
+Impulsor,,,unknown,
+Primaris Battle Leader in Phobos Armour,,,unknown,

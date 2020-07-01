@@ -1,4 +1,4 @@
-model,base_size,notes
-Marneus Calgar,unknown,""
-Marneus Calgar [Legends],unknown,""
-Marneus Calgar in Artificer Armour [Legends],unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Marneus Calgar,,,unknown,
+Marneus Calgar [Legends],,,unknown,
+Marneus Calgar in Artificer Armour [Legends],,,unknown,

@@ -1,52 +1,52 @@
-model,base_size,notes
-Tesseract Vault,unknown,""
-Imotekh the Stormlord,unknown,""
-Canoptek Scarab Swarm,unknown,""
-Tomb Blade,unknown,""
-Destroyer,unknown,""
-Heavy Destroyer,unknown,""
-Canoptek Spyder,unknown,""
-Obelisk,unknown,""
-Transcendent C&apos;tan,unknown,""
-Monolith,unknown,""
-Annihilation Barge,unknown,""
-Ghost Ark,unknown,""
-Doom Scythe,unknown,""
-Night Scythe,unknown,""
-Canoptek Wraith (Whip Coils),unknown,""
-Triarch Praetorian,unknown,""
-C&apos;tan Shard of the Nightbringer,unknown,""
-C&apos;tan Shard of the Deceiver,unknown,""
-Necron Warrior,unknown,""
-Deathmark,unknown,""
-Flayed One,unknown,""
-Anrakyr the Traveller,unknown,""
-Trazyn the Infinite,unknown,""
-Catacomb Command Barge,unknown,""
-Orikan the Diviner,unknown,""
-Illuminor Szeras,unknown,""
-Cryptek,unknown,""
-Destroyer Lord,unknown,""
-Vargard Obyron,unknown,""
-Nemesor Zahndrekh,unknown,""
-Lord,unknown,""
-Overlord,unknown,""
-Lychguard,unknown,""
-Immortal,unknown,""
-Doomsday Ark,unknown,""
-Canoptek Tomb Stalker,unknown,""
-Gauss Pylon,unknown,""
-Tesseract Ark,unknown,""
-Night Shroud,unknown,""
-Kutlakh the World Killer,unknown,""
-Toholk the Blinded,unknown,""
-Canoptek Tomb Sentinel,unknown,""
-Canoptek Acanthrite,unknown,""
-Sentry Pylon,unknown,""
-Power Crucible,unknown,""
-Tomb Ziggurat,unknown,""
-Gun Emplacement Mount,unknown,""
-Canoptek Wraith (Particle Caster),unknown,""
-Canoptek Wraith (Transdimensional Beamer),unknown,""
-Canoptek Wraith,unknown,""
-Seraptek Heavy Construct,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Tesseract Vault,,,unknown,
+Imotekh the Stormlord,,,unknown,
+Canoptek Scarab Swarm,,,unknown,
+Tomb Blade,,,unknown,
+Destroyer,,,unknown,
+Heavy Destroyer,,,unknown,
+Canoptek Spyder,,,unknown,
+Obelisk,,,unknown,
+Transcendent C&apos;tan,,,unknown,
+Monolith,,,unknown,
+Annihilation Barge,,,unknown,
+Ghost Ark,,,unknown,
+Doom Scythe,,,unknown,
+Night Scythe,,,unknown,
+Canoptek Wraith (Whip Coils),,,unknown,
+Triarch Praetorian,,,unknown,
+C&apos;tan Shard of the Nightbringer,,,unknown,
+C&apos;tan Shard of the Deceiver,,,unknown,
+Necron Warrior,,,unknown,
+Deathmark,,,unknown,
+Flayed One,,,unknown,
+Anrakyr the Traveller,,,unknown,
+Trazyn the Infinite,,,unknown,
+Catacomb Command Barge,,,unknown,
+Orikan the Diviner,,,unknown,
+Illuminor Szeras,,,unknown,
+Cryptek,,,unknown,
+Destroyer Lord,,,unknown,
+Vargard Obyron,,,unknown,
+Nemesor Zahndrekh,,,unknown,
+Lord,,,unknown,
+Overlord,,,unknown,
+Lychguard,,,unknown,
+Immortal,,,unknown,
+Doomsday Ark,,,unknown,
+Canoptek Tomb Stalker,,,unknown,
+Gauss Pylon,,,unknown,
+Tesseract Ark,,,unknown,
+Night Shroud,,,unknown,
+Kutlakh the World Killer,,,unknown,
+Toholk the Blinded,,,unknown,
+Canoptek Tomb Sentinel,,,unknown,
+Canoptek Acanthrite,,,unknown,
+Sentry Pylon,,,unknown,
+Power Crucible,,,unknown,
+Tomb Ziggurat,,,unknown,
+Gun Emplacement Mount,,,unknown,
+Canoptek Wraith (Particle Caster),,,unknown,
+Canoptek Wraith (Transdimensional Beamer),,,unknown,
+Canoptek Wraith,,,unknown,
+Seraptek Heavy Construct,,,unknown,

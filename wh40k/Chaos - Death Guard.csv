@@ -1,50 +1,50 @@
-model,base_size,notes
-Chaos Lord [Legends],unknown,""
-Chaos Predator,unknown,""
-Chaos Spawn,unknown,""
-Defiler,unknown,""
-Sorcerer [Legends],unknown,""
-Poxwalker,unknown,""
-Foetid Bloat-drone,unknown,""
-Chaos Lord in Terminator Armour,unknown,""
-Chaos Lord on Palanquin of Nurgle [Legends],unknown,""
-Chaos Lord with Jump Pack [Legends],unknown,""
-Daemon Prince [INDEX],unknown,""
-Sorcerer in Terminator Armour,unknown,""
-Sorcerer with Jump Pack,unknown,""
-Possessed,unknown,""
-Helbrute,unknown,""
-Chaos Rhino,unknown,""
-Typhus,unknown,""
-Lord of Contagion,unknown,""
-Malignant Plaguecaster,unknown,""
-Cultist Champion,unknown,""
-Chaos Cultist w/ special weapon,unknown,""
-Chaos Cultist w/ autopistol and brutal assault weapon,unknown,""
-Chaos Cultist w/ Autogun,unknown,""
-Noxious Blightbringer,unknown,""
-Chaos Land Raider,unknown,""
-Sorcerer on Palanquin of Nurgle,unknown,""
-Mortarion,unknown,""
-Deathshroud Champion,unknown,""
-Deathshroud Terminator,unknown,""
-Plague Champion,unknown,""
-Plague Marine w/ boltgun,unknown,""
-Plague Marine w/ Special Weapon,unknown,""
-Plague Marine w/ melee weapons,unknown,""
-Blightlord Champion,unknown,""
-Blightlord Terminator,unknown,""
-Myphitic Blight-hauler,unknown,""
-Biologus Putrifier,unknown,""
-Plague Surgeon,unknown,""
-Tallyman,unknown,""
-Foul Blightspawn,unknown,""
-Plague Champion,unknown,""
-Plague Marine,unknown,""
-Blightlord Terminator,unknown,""
-Blightlord Terminator,unknown,""
-Blightlord Terminator,unknown,""
-Necrosius the Undying,unknown,""
-Mamon Transfigured,unknown,""
-Chaos Lord,unknown,""
-Sorcerer,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Chaos Lord [Legends],,,unknown,
+Chaos Predator,,,unknown,
+Chaos Spawn,,,unknown,
+Defiler,,,unknown,
+Sorcerer [Legends],,,unknown,
+Poxwalker,,,unknown,
+Foetid Bloat-drone,,,unknown,
+Chaos Lord in Terminator Armour,,,unknown,
+Chaos Lord on Palanquin of Nurgle [Legends],,,unknown,
+Chaos Lord with Jump Pack [Legends],,,unknown,
+Daemon Prince [INDEX],,,unknown,
+Sorcerer in Terminator Armour,,,unknown,
+Sorcerer with Jump Pack,,,unknown,
+Possessed,,,unknown,
+Helbrute,,,unknown,
+Chaos Rhino,,,unknown,
+Typhus,,,unknown,
+Lord of Contagion,,,unknown,
+Malignant Plaguecaster,,,unknown,
+Cultist Champion,,,unknown,
+Chaos Cultist w/ special weapon,,,unknown,
+Chaos Cultist w/ autopistol and brutal assault weapon,,,unknown,
+Chaos Cultist w/ Autogun,,,unknown,
+Noxious Blightbringer,,,unknown,
+Chaos Land Raider,,,unknown,
+Sorcerer on Palanquin of Nurgle,,,unknown,
+Mortarion,,,unknown,
+Deathshroud Champion,,,unknown,
+Deathshroud Terminator,,,unknown,
+Plague Champion,,,unknown,
+Plague Marine w/ boltgun,,,unknown,
+Plague Marine w/ Special Weapon,,,unknown,
+Plague Marine w/ melee weapons,,,unknown,
+Blightlord Champion,,,unknown,
+Blightlord Terminator,,,unknown,
+Myphitic Blight-hauler,,,unknown,
+Biologus Putrifier,,,unknown,
+Plague Surgeon,,,unknown,
+Tallyman,,,unknown,
+Foul Blightspawn,,,unknown,
+Plague Champion,,,unknown,
+Plague Marine,,,unknown,
+Blightlord Terminator,,,unknown,
+Blightlord Terminator,,,unknown,
+Blightlord Terminator,,,unknown,
+Necrosius the Undying,,,unknown,
+Mamon Transfigured,,,unknown,
+Chaos Lord,,,unknown,
+Sorcerer,,,unknown,

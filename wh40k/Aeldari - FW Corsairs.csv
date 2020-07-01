@@ -1,21 +1,21 @@
-model,base_size,notes
-Corsair Skyreaver Felarch,unknown,""
-Skyreaver w/ Lasblaster,unknown,""
-Skyreaver w/ Heavy Weapon,unknown,""
-Skyreaver w/ Shuriken Catapult,unknown,""
-Skyreaver w/ Shardcarbine,unknown,""
-Skyreaver w/ Spar-glaive,unknown,""
-Corsair Reaver Felarch,unknown,""
-Reaver w/ Lasblaster,unknown,""
-Reaver w/ Heavy Weapon,unknown,""
-Reaver w/ Shuriken Catapult,unknown,""
-Reaver w/ Shardcarbine,unknown,""
-Reaver w/ Spar-glaive,unknown,""
-Corsair Cloud Dancer Felarch,unknown,""
-Cloud Dancer w/ Shuriken Cannon,unknown,""
-Cloud Dancer w/ Twin Shuriken Catapult,unknown,""
-Cloud Dancer w/ Scatter Laser,unknown,""
-Cloud Dancer w/ Dark Lance,unknown,""
-Cloud Dancer w/ Splinter Cannon,unknown,""
-Cloud Dancer w/ Dissonance Cannon,unknown,""
-Corsair Venom,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Corsair Skyreaver Felarch,,,unknown,
+Skyreaver w/ Lasblaster,,,unknown,
+Skyreaver w/ Heavy Weapon,,,unknown,
+Skyreaver w/ Shuriken Catapult,,,unknown,
+Skyreaver w/ Shardcarbine,,,unknown,
+Skyreaver w/ Spar-glaive,,,unknown,
+Corsair Reaver Felarch,,,unknown,
+Reaver w/ Lasblaster,,,unknown,
+Reaver w/ Heavy Weapon,,,unknown,
+Reaver w/ Shuriken Catapult,,,unknown,
+Reaver w/ Shardcarbine,,,unknown,
+Reaver w/ Spar-glaive,,,unknown,
+Corsair Cloud Dancer Felarch,,,unknown,
+Cloud Dancer w/ Shuriken Cannon,,,unknown,
+Cloud Dancer w/ Twin Shuriken Catapult,,,unknown,
+Cloud Dancer w/ Scatter Laser,,,unknown,
+Cloud Dancer w/ Dark Lance,,,unknown,
+Cloud Dancer w/ Splinter Cannon,,,unknown,
+Cloud Dancer w/ Dissonance Cannon,,,unknown,
+Corsair Venom,,,unknown,

@@ -1,5 +1,5 @@
-model,base_size,notes
-Legionnaire Sergeant,unknown,""
-Legionnaire,unknown,""
-Legionnaire (Heavy Weapon),unknown,""
-Legionnaire (Special Weapon),unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Legionnaire Sergeant,,,unknown,
+Legionnaire,,,unknown,
+Legionnaire (Heavy Weapon),,,unknown,
+Legionnaire (Special Weapon),,,unknown,

@@ -1,6 +1,6 @@
-model,base_size,notes
-Neyam Shai Murad,unknown,""
-Janus Draik,unknown,""
-Espern Locarno,unknown,""
-UR-025,unknown,""
-Spindle Drone,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Neyam Shai Murad,,,unknown,
+Janus Draik,,,unknown,
+Espern Locarno,,,unknown,
+UR-025,,,unknown,
+Spindle Drone,,,unknown,

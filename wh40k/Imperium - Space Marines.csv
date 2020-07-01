@@ -1,26 +1,26 @@
-model,base_size,notes
-Space Marine,unknown,""
-Space Marine Sergeant,unknown,""
-Space Marine w/Heavy Weapon,unknown,""
-Intercessor,unknown,""
-Intercessor Sergeant,unknown,""
-Inceptor,unknown,""
-Inceptor Sergeant,unknown,""
-Hellblaster,unknown,""
-Hellblaster Sergeant,unknown,""
-Reiver,unknown,""
-Reiver Sergeant,unknown,""
-Aggressor Sergeant,unknown,""
-Aggressor,unknown,""
-Suppressor Sergeant,unknown,""
-Suppressor,unknown,""
-Lieutenant in Phobos Armour,unknown,""
-Librarian in Phobos Armour,unknown,""
-Infiltrator Sergeant,unknown,""
-Infiltrator Helix Adept,unknown,""
-Infiltrator,unknown,""
-Captain in Phobos Armour,unknown,""
-Ancient in Terminator Armor,unknown,""
-Impulsor,unknown,""
-Incursor Sergeant,unknown,""
-Incursor,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Space Marine,,,unknown,
+Space Marine Sergeant,,,unknown,
+Space Marine w/Heavy Weapon,,,unknown,
+Intercessor,,,unknown,
+Intercessor Sergeant,,,unknown,
+Inceptor,,,unknown,
+Inceptor Sergeant,,,unknown,
+Hellblaster,,,unknown,
+Hellblaster Sergeant,,,unknown,
+Reiver,,,unknown,
+Reiver Sergeant,,,unknown,
+Aggressor Sergeant,,,unknown,
+Aggressor,,,unknown,
+Suppressor Sergeant,,,unknown,
+Suppressor,,,unknown,
+Lieutenant in Phobos Armour,,,unknown,
+Librarian in Phobos Armour,,,unknown,
+Infiltrator Sergeant,,,unknown,
+Infiltrator Helix Adept,,,unknown,
+Infiltrator,,,unknown,
+Captain in Phobos Armour,,,unknown,
+Ancient in Terminator Armor,,,unknown,
+Impulsor,,,unknown,
+Incursor Sergeant,,,unknown,
+Incursor,,,unknown,

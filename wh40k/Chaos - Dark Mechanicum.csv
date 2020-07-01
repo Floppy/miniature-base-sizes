@@ -1,10 +1,10 @@
-model,base_size,notes
-Renegade Knight Acheron,unknown,""
-Renegade Knight Lancer,unknown,""
-Renegade Knight Castigator,unknown,""
-Renegade Knight Atropos,unknown,""
-Renegade Knight Magaera,unknown,""
-Renegade Knight Porphyrion,unknown,""
-Renegade Knight Styrix,unknown,""
-Chaos Hellwright,unknown,""
-Chaos Hellwright on Dark Abeyant,unknown,""
+model,base_size,base_short_axis,base_shape,notes
+Renegade Knight Acheron,,,unknown,
+Renegade Knight Lancer,,,unknown,
+Renegade Knight Castigator,,,unknown,
+Renegade Knight Atropos,,,unknown,
+Renegade Knight Magaera,,,unknown,
+Renegade Knight Porphyrion,,,unknown,
+Renegade Knight Styrix,,,unknown,
+Chaos Hellwright,,,unknown,
+Chaos Hellwright on Dark Abeyant,,,unknown,
