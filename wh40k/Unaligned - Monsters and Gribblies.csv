@@ -1,4 +1,4 @@
 model,base_size,base_short_axis,base_shape,notes
-Ambull,,,unknown,
-Borewyrm Infestation,,,unknown,
-Spindle Drone,,,unknown,
+Ambull,50,,round,
+Borewyrm Infestation,25,,round,
+Spindle Drone,25,,round,
